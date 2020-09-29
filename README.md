@@ -1,7 +1,7 @@
 # PREDICTIVE_ANALYTICS_CLASSIFICATION
-Knime Analytics platform'da Random forest, logistic regression ve ann ile multi variate classification  uygulanması
 
-letters.csv'deki LETTR alanınının tahmin edilmesi. Random forest, logistic regression ve ann classification yöntemleri kullanılıyor. Problem çok değerli sınıflandırma olarak adlandırılmaktadır.Tahmin edilecek olan değerler HARF lerden oluşmaktadır.
-Dosya harflerle ilgili 16 öz nitelikten oluşuyor. 
+Application of multi variate classification with Random forest, logistic regression and ann in Knime Analytics platform
 
-CSV Reader konfigurasyonunda letter.csv dosyası veri olarak kullanılmalıdır.
+Prediction of the LETTR field in letters.csv. Random forest, logistic regression and ann classification methods are used. The problem is called multivalued classification. The values ​​to be estimated consist of LETTERS. The file consists of 16 attributes related to the letters.
+
+In CSV Reader configuration, the letter.csv file should be used as data.
